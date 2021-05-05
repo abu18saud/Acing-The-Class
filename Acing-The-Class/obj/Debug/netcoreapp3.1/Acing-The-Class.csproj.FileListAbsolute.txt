@@ -1,0 +1,13 @@
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\bin\Debug\netcoreapp3.1\Acing-The-Class.exe
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\bin\Debug\netcoreapp3.1\Acing-The-Class.deps.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\bin\Debug\netcoreapp3.1\Acing-The-Class.runtimeconfig.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\bin\Debug\netcoreapp3.1\Acing-The-Class.runtimeconfig.dev.json
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\bin\Debug\netcoreapp3.1\Acing-The-Class.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\bin\Debug\netcoreapp3.1\Acing-The-Class.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\obj\Debug\netcoreapp3.1\Acing-The-Class.csprojAssemblyReference.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\obj\Debug\netcoreapp3.1\Acing-The-Class.AssemblyInfoInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\obj\Debug\netcoreapp3.1\Acing-The-Class.AssemblyInfo.cs
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\obj\Debug\netcoreapp3.1\Acing-The-Class.csproj.CoreCompileInputs.cache
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\obj\Debug\netcoreapp3.1\Acing-The-Class.dll
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\obj\Debug\netcoreapp3.1\Acing-The-Class.pdb
+C:\Users\abu18\Documents\الدروس\مبادئ البرمجة\C#\Acing-The-Class\Acing-The-Class\obj\Debug\netcoreapp3.1\Acing-The-Class.genruntimeconfig.cache
